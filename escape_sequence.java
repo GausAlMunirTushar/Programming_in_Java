@@ -16,6 +16,6 @@ public class escape_sequence {
         System.out.println("Hello\u0041\u0042\u0043\u0044\u0045\u0046\u0047\u0048\u0049World");
         System.out.println("Hello\u0041\u0042\u0043\u0044\u0045\u0046\u0047\u0048\u0049\u004AWorld");
         System.out.println("Hello\u0041\u0042\u0043\u0044\u0045\u0046\u0047\u0048\u0049\u004A\u004BWorld");
-        System.out.println("Hello\u0041\u0042\u0043\u0044\u0045\u0046\u0047\u0048\u0049\u004A\u004B\u004C
+        System.out.println("Hello\u0041\u0042\u0043\u0044\u0045\u0046\u0047\u0048\u0049\u004A\u004B\u004C");
    } 
 }
